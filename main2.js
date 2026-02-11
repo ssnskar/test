@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
   ];
   
   const blackmail = [
-    "Please",
+    "Please baba",
     "I'm begging you",
     "I'm crying",
     "I'm sad",
@@ -102,13 +102,13 @@ document.addEventListener("DOMContentLoaded", function () {
         const wedate = document.getElementById("wedate");
         const btns = document.getElementById("btns");
         btns.style.display = "none";
-        wedate.innerText = "We are each other's valentine now. I love you cutie. ❤️😘";
+        wedate.innerText = "We are each other's valentine now. I love you Tanvi. ❤️😘 Time to get married!";
 
         // Open index1.html in a new tab
         window.open("index1.html", "_blank");
 
     } else {
-        alert("Don't say yes right away, cutie. Play around a bit 😉😘");
+        alert("Don't say yes right away, baba. Play around a bit 😉😘");
     }
 }
 
